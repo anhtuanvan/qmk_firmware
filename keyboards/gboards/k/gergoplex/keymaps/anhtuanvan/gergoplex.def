@@ -1,0 +1,17 @@
+// Gergoplex specfic combos
+
+COMB(erLess,      KC_LT,            KC_E, KC_R)
+COMB(rtPUp,       KC_PGUP,          KC_R, KC_T)
+COMB(sdBspc,      KC_BSPC,          KC_S, KC_D)
+COMB(dfSTab,      LSFT(KC_TAB),     KC_D, KC_F)
+COMB(fgHome,      KC_HOME,          KC_F, KC_G)
+COMB(xcQuot,      KC_QUOT,          KC_X, KC_C)
+COMB(cvDash,      KC_MINS,          KC_C, KC_V)
+COMB(vbPUp,       KC_PGDOWN,        KC_V, KC_B)
+COMB(uiGreat,     KC_GT,            KC_U, KC_I)
+COMB(opBacksl,    KC_BSLS,          KC_O, KC_P)
+COMB(hjEnd,       KC_END,           KC_H, KC_J)
+COMB(jkTab,       KC_TAB,           KC_J, KC_K)
+COMB(klDel,       KC_DEL,           KC_K, KC_L)
+COMB(mcUnds,      KC_UNDS,          KC_M, KC_COMM)
+COMB(cdCol,       KC_COLN,          KC_COMM, KC_DOT)
